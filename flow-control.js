@@ -40,5 +40,5 @@ function switchAge(age) {
         console.log('You have an age');
 
     }
-// }
+}
 let mood = switchAge(12);
