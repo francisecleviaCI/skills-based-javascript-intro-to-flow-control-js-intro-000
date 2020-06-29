@@ -31,7 +31,7 @@ ageChecker (14)
 ternaryTeenager(14)
 
 
-  // function switchAge(age) {
+function switchAge(age) {
     switch (age) {
       case (13 <= age && age <= 19):
         console.log('You are a teenager');
@@ -41,4 +41,4 @@ ternaryTeenager(14)
 
     }
 // }
-let mood = switchAge(12)
+let mood = switchAge(12);
