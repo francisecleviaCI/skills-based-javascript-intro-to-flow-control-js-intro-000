@@ -41,4 +41,4 @@ function switchAge(age) {
 
     }
 }
-let mood = switchAge(12);
+switchAge(12);
